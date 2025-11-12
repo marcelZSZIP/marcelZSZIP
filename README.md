@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**marcelZSZIP/marcelZSZIP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Witam👋
+moje zainteresowania to:
+- leżenie pod sosną i słuchanie popka
+- patodeweloperka
+- programowanie w c#
+- nie robienie nic
+- nie czytanie ferdydurke
+- używanie premium responsów w Copilocie do byle pytań
+- oglądanie ig na psi
+- ragebaitowanie dawida
+- trading, forex, krypto
+- robienie gier które polega na dwugodzinnych sesjach co 3 miesiące
