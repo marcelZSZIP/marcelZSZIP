@@ -10,3 +10,6 @@ moje zainteresowania to:
 - ragebaitowanie dawida
 - trading, forex, krypto
 - robienie gier które polega na dwugodzinnych sesjach co 3 miesiące
+- doro nikke
+- teto gruszka
+
